@@ -1,0 +1,17 @@
+{
+  "name": "workout-stats",
+  "description": "Tracking and visualizing my workout statistics.",
+  "main": "app.js",
+  "authors": [
+    "zackharley"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/zackharley/Workout-Stats",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+  ]
+}
